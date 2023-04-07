@@ -1,3 +1,4 @@
+package dt;
 
 public class Point {
   public double x;
